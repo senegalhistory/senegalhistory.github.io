@@ -7,7 +7,7 @@ bodyclass: join
 <div class="row">
 <h2>L' etat des lieux</h2>
 <p>
-Depuis quelques annees , nous avons de moins en moins de connaissances
+Depuis quelques années , nous avons de moins en moins de connaissances
 sur l'histoire de L'Afrique et du Senegal en particulier sur la Toile,
 Les etudiants dans les univerisites trouvent de moins en moins de 
 documents sur le Web pour leurs  etudes de recherches .Apres un diagnostique
@@ -19,21 +19,21 @@ collaboratifs pour assurer la diffusion  et permettre au publique
 Senegalais, mais surtout au monde entier de mieu connaire l'histoire de 
 ce beau pays qui est le Senegal.
 </p>
-<h2>Le besion des lieux</h2>
+<h2>besion</h2>
 <p>
 OkfnSn  <a href ="http://sn.okfn.org/">http://sn.okfn.org/</a> - a passé 
 ces derniers mois, a parcourir les 
 universites et les lyces du Senegal pour mieu constater cette carrence d'
-informations sur Senegal sur la Toile, Beaucoup d'etudiants ont fait etat que
+informations sur l'histoire du Senegal sur la Toile, Beaucoup d'etudiants ont fait etat que
 les informations dont ils ont besion ne sont pas toujours disponibles sur 
 Internet en general , mais au niveau des differents archives d'ecoles et 
-universités . Il faudrait les rendres accessible a un publique plus large. 
+universités . Il faudrait les rendre accessible a un publique plus large. 
 </p>
 
 <p>
 Pour cela nous avons avons lancé le projet senegalhistory 
 <a href ="http://senegalhistory.github.io/">http://senegalhistory.github.io/</a>
-dont l'ojectif simple et de fournir a 
+dont l'ojectif simple est de fournir a 
 chacun desirant constribuer a la documentation sur l'histoire du senegal de
 le faire , et de la maniere la plus simple qui soit , c'est a dire en editant un
 simple fichier partagé sur Internet . Le fichier est accessible en edition a 
